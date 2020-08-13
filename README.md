@@ -1,2 +1,2 @@
-# PROJETOS-TURMA6
+# Trybe projects
 ALL PROJECTS OF TURMA 6
